@@ -1,0 +1,1 @@
+--srcdir=/host/sel4-tutorials-manifest/projects/musllibc --prefix=/host/sel4-tutorials-manifest/hello-word_build/musllibc/build-temp/stage  --target=x86_64 --enable-warnings --disable-shared --enable-static

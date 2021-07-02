@@ -1,0 +1,7 @@
+/host/sel4-tutorials-manifest/projects/sel4-tutorials/template.py
+/host/sel4-tutorials-manifest/projects/sel4-tutorials/tools/macros.py
+/host/sel4-tutorials-manifest/projects/sel4-tutorials/tools/context.py
+/host/sel4-tutorials-manifest/projects/sel4-tutorials/tools/tutorialstate.py
+/host/sel4-tutorials-manifest/projects/sel4-tutorials/tools/expect.py
+/host/sel4-tutorials-manifest/projects/sel4-tutorials/tools/__init__.py
+/host/sel4-tutorials-manifest/projects/sel4-tutorials/tutorials/hello-world/hello-world.md

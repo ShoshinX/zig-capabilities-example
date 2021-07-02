@@ -1,0 +1,4 @@
+/host/sel4-tutorials-manifest/hello-word_build/.tutegen/hello-word/gen/hello-world.md
+/host/sel4-tutorials-manifest/hello-word_build/.tutegen/hello-word/gen/.tasks
+/host/sel4-tutorials-manifest/hello-word_build/.tutegen/hello-word/gen/src/main.c
+/host/sel4-tutorials-manifest/hello-word_build/.tutegen/hello-word/gen/CMakeLists.txt

@@ -1,0 +1,4 @@
+/host/sel4-tutorials-manifest/capabilities_build/.tutegen/capabilities/gen/capabilities.md
+/host/sel4-tutorials-manifest/capabilities_build/.tutegen/capabilities/gen/.tasks
+/host/sel4-tutorials-manifest/capabilities_build/.tutegen/capabilities/gen/src/main.c
+/host/sel4-tutorials-manifest/capabilities_build/.tutegen/capabilities/gen/CMakeLists.txt
