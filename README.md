@@ -7,3 +7,5 @@ This cimport.zig is generated from @cInclude() which is in `capabilities/src/zig
 The build directory is also needed because these @cInclude() files depend on generated files in the build directory e.g. musllibc.  
 
 There are 3 sets of errors in the `cimport.zig` file, they can be found by searching for `//` comments in cimport.zig: line 198-214, line 3845-3858, line 5879-6090.
+
+There are also omitted errors like not having `size_t` typedefs in the cimport.zig
